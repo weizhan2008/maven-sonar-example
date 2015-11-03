@@ -85,3 +85,5 @@ Variable Scope	[Arguments]	${x}
 	@{TOOLS}	Set Variable	@{TOOLS}
 	@{TOOLS}	Create List	@{TOOLS}	${x}
 	Set Test Variable	@{TOOLS}
+
+*** add for test ***
